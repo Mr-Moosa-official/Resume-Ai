@@ -1,6 +1,6 @@
 # 📄 Resume AI App Blueprint
 
-An AI-powered resume analysis and optimization platform that helps job seekers improve ATS compatibility, identify skill gaps, and discover suitable job roles through intelligent resume evaluation.
+An AI-powered  resume analysis and optimization platform that helps job seekers improve ATS compatibility, identify skill gaps, and discover suitable job roles through intelligent resume evaluation.
 
 🚀 What It Does
 
