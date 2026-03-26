@@ -4,7 +4,7 @@ An AI-powered  resume analysis and optimization platform that helps job seekers 
 
 🚀 What It Does
 
-Resume AI analyzes uploaded resumes using NLP and AI reasoning to provide clear insights, optimization tips, and role-matching recommendations.
+Resume AI  analyzes uploaded resumes using NLP and AI reasoning to provide clear insights, optimization tips, and role-matching recommendations.
 
 Users can:
 
